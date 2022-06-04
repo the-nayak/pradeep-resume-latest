@@ -1,0 +1,30 @@
+{
+  "name": "pradeep_resume",
+  "version": "1.0.0",
+  "description": "Pradeep Nayak's resume website.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./css/tailwind.css -o ./css/style.css --watch"
+  },
+  "keywords": [
+    "Pradeep",
+    "Nayak",
+    "Pradeep",
+    "Nayak",
+    "PRadeep",
+    "Resume",
+    "Web",
+    "Developer",
+    "Resume",
+    "Full-Stack",
+    "Developer",
+    "Resume"
+  ],
+  "author": "Pradeep Nayak",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  }
+}
