@@ -4,7 +4,7 @@
   "description": "Pradeep Nayak's resume website.",
   "main": "index.js",
   "scripts": {
-    "watch": "npx tailwindcss -i ./css/tailwind.css -o ./css/style.css --watch"
+    "build": "npx tailwindcss -i ./css/tailwind.css -o ./css/style.css"
   },
   "keywords": [
     "Pradeep",
